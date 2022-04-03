@@ -28,8 +28,7 @@ Template code:
   data-armory-size="60"
   data-armory-ids="85010,85010,74412,46774,39620,1379"
   data-armory-1379-upgrades="24615,24815"
-  data-armory-1379-upgrade-count={\"24815\":3}
-  data-armory-1379-infusions="49426,49426"
+  data-armory-1379-upgrade-count="{\24815\:3}"  data-armory-1379-infusions="49426,49426"
 >
 </div>
 
