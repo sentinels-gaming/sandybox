@@ -24,7 +24,7 @@ Template code:
 
 <div
   data-armory-embed="items"
-  data-armory-blank-text="Gear"
+  data-armory-blank-text="Some other text can go here!"
   data-armory-size="60"
   data-armory-ids="85010,85010,74412,46774,39620,1379"
   data-armory-1379-upgrades="24615,24815"
