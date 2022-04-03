@@ -22,6 +22,17 @@ Template code:
 
 ## Gearing
 
+<div
+  data-armory-embed="items"
+  data-armory-blank-text="Gear"
+  data-armory-size="60"
+  data-armory-ids="85010,85010,74412,46774,39620,1379"
+  data-armory-1379-upgrades="24615,24815"
+  data-armory-1379-upgrade-count="{\"24815\": 3}"
+  data-armory-1379-infusions="49426,49426"
+>
+</div>
+
 - Cele can be swapped for Viper (higher dps), Trailblazer (higher tank), or Dire (budget). If using Dire, change runes to Balthazar. Alchemy -> Inventions may be worth testing due to the number of turrets in this build.
 
 - Rotation:
