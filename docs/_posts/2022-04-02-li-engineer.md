@@ -6,7 +6,8 @@ Template code:[&DQMGKiYaHT4oAQAAkwEAAI4BAAAiAQAAiQEAAAAAAAAAAAAAAAAAAAAAAAA=]
 
 <div
   data-armory-embed="skills"
-  data-armory-ids="5857,5927,5836,5912,5868">
+  data-armory-ids="5857,5927,5836,5912,5868"
+>
 </div>
 
 <div
@@ -14,7 +15,8 @@ Template code:[&DQMGKiYaHT4oAQAAkwEAAI4BAAAiAQAAiQEAAAAAAAAAAAAAAAAAAAAAAAA=]
   data-armory-ids=“6,38,29”
   data-armory-6-traits=“525,1892,505 ”
   data-armory-38-traits=“1930,2006,510”
-  data-armory-29-traits=“509,470,1854”>
+  data-armory-29-traits=“509,470,1854”
+>
 </div>
 ## Gearing
 
