@@ -13,10 +13,10 @@ Template code:
 
 <div
   data-armory-embed="specializations"
-  data-armory-ids="1,45,59"
-  data-armory-1-traits="705,1960,692"
-  data-armory-45-traits="675,669,1687"
-  data-armory-59-traits="2082,2098,2070"
+  data-armory-ids="6,38,29"
+  data-armory-6-traits="525,1892,505"
+  data-armory-38-traits="1930,2006,510"
+  data-armory-29-traits="509,470,1854"
 >
 </div>
 
